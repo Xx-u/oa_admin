@@ -74,5 +74,9 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 10"
-  ]
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/Xx-u/oa_admin.git",
+  "author": "xuxu <2898133156@qq.com>",
+  "license": "MIT"
 }
